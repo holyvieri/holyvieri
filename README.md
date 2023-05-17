@@ -1,8 +1,8 @@
 [![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/banner.png)](https://github.com/holyvieri)
 
 <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=holyvieri&show_icons=true&count_private=true&theme=nord" alt="Ana Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&layout=compact&theme=nord" />
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=holyvieri&show_icons=true&count_private=true&hide_border=true&theme=nord" alt="Ana Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&layout=compact&hide_border=true&theme=nord" />
 </div>
 
 
