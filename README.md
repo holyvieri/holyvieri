@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/github.png)](https://github.com/holyvieri)
+[![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/banner.png)](https://github.com/holyvieri)
 
 ![holyvieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=holyvieri&show_icons=true&theme=nord)
 
