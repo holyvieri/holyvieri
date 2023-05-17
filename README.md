@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/banner.png)](https://github.com/holyvieri)
+[![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/linkedinbanner.png)](https://github.com/holyvieri)
 
 <div align="center">
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=holyvieri&show_icons=true&count_private=true&hide_border=true&theme=nord" alt="Ana Oliveira github stats" /> 
