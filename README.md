@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**holyvieri/holyvieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![holyvieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=holyvieri&count_private=true)
+[![holyvieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=holyvieri&show_icons=true&theme=nord)
+![holyvieri's GitHub stats](https://github-readme-stats.vercel.app/api?username=holyvieri&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=holyvieri&repo=github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri)]
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&size_weight=0.5&count_weight=0.5)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&layout=compact)]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
