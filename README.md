@@ -1,9 +1,5 @@
 [![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/banner.png)](https://github.com/holyvieri)
 
-<div align="center">
-   <img default src="https://github-readme-stats.vercel.app/api?username=holyvieri&show_icons=true&count_private=true&hide_border=true&theme=nord" alt="Ana Oliveira github stats" /> 
-  <img default src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&layout=compact&hide_border=true&theme=nord" />
-</div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=tools;ferramentas+usadas)](https://git.io/typing-svg)
