@@ -1,8 +1,7 @@
 [![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/banner.png)](https://github.com/holyvieri)
 
 <a href="https://github.com/holyvieri">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=holyvieri&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&layout=compact&langs_count=7&theme=nord"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&layout=compact&langs_count=7&theme=nord"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=tools;ferramentas+usadas)](https://git.io/typing-svg)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
