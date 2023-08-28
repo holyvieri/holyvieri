@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/banner.png)](https://github.com/holyvieri)
+[![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/LinkedIn%20Banner.png)](https://github.com/holyvieri)
 
 <a href="https://github.com/holyvieri">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&layout=compact&langs_count=7&theme=nord"/>
