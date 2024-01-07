@@ -1,4 +1,7 @@
-[![MasterHead](https://github.com/holyvieri/holyvieri/blob/main/LinkedIn%20Banner.png)](https://github.com/holyvieri)
+- 💻 I am interested in front-end and back-end.
+- 📘 I’m a software engineering student.
+- 🌈 Pronouns: she/her.
+- 📖 Fun fact: I love reading books, but I hate having to redo the same reading.
 
 <!---<a href="https://github.com/holyvieri">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyvieri&layout=compact&langs_count=7&theme=nord"/>--->
