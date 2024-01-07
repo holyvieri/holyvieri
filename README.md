@@ -12,7 +12,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8E26&size=20&vCenter=true&width=1000&lines=languages;linguagens+aprendidas+ou+em+aprendizagem)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8E26&size=20&vCenter=true&width=1000&lines=learning+languages;linguagens+em+aprendizagem)](https://git.io/typing-svg)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -22,8 +22,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8E26&size=20&vCenter=true&width=1000&lines=social;vamos+nos+conectar+:%29)](https://git.io/typing-svg)
-<a href="https://www.instagram.com/holyvieri.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:drunmoonahs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/itsanoliver/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:beatriz.oliveirac@upe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/holyvieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
