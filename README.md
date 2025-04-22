@@ -1,4 +1,4 @@
-- 💻 I am interested in front-end and back-end.
+- 💻 I am interested in cloud/devops.
 - 📘 I’m a software engineering student.
 - 🌈 Pronouns: she/her.
 - 📖 Fun fact: I love reading books, but I hate having to redo the same reading.
